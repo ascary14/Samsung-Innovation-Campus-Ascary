@@ -5,3 +5,4 @@ Este es mi primer cambio en Git
 
 Este commit agrega una linea texto desde el editor web para usar git pull
 
+Este texto fue agregado para hacer uso de github desktop
